@@ -5,14 +5,12 @@ An Android Starter app with all components required for ReST Interaction Setup.
 This is a sample application highlighting how to integrate Retrofit, okhttp and gson to form modern communication setup.
 
 
-## Requirements
-
 ## Features
   Popular Libraries
   
-[Retrofit 2](http://square.github.io/retrofit/)
-[Okhttp](http://square.github.io/okhttp/)
-[GSON](https://github.com/google/gson)
+* [Retrofit 2](http://square.github.io/retrofit/)
+* [Okhttp](http://square.github.io/okhttp/)
+* [GSON](https://github.com/google/gson)
 
 
 ## Getting started
